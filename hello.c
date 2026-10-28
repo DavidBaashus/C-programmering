@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-main() {
-    printf("Hello, world\n");
-    Test
+main {
+    printf("Hello, World!");
 }
